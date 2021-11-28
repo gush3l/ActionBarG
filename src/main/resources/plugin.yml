@@ -1,0 +1,7 @@
+name: ActionBarG
+version: '${project.version}'
+main: me.gushel.actionbarg.ActionBarG
+api-version: 1.17
+depend: [ PlaceholderAPI, ProtocolLib]
+authors: [ gush3l ]
+description: Display player's Vault balance in the ActionBar with the option of remapping characters.

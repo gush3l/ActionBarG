@@ -1,0 +1,10 @@
+characters:
+  - "1:One"
+  - "2:Two"
+  - ".:FullStop"
+  - ",:Comma"
+actionbar:
+  text: "&c%player_x% &d%player_y% &a%player_z% , ."
+  refresh:
+    delay: 1
+    period: 1
